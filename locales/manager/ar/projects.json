@@ -1,0 +1,81 @@
+{
+  "projectsList": {
+    "projects": "Lorem",
+    "createProject": "Lorem",
+    "table": {
+      "name": "Lorem",
+      "users": "Lorem",
+      "tools": "Lorem",
+      "created": "Lorem"
+    }
+  },
+  "sidebar": {
+    "general": "Lorem",
+    "releaseChannels": "Lorem",
+    "projectDetails": "Lorem"
+  },
+  "projectDetails": {
+    "deleteModal": {
+      "areYouSure": "Lorem",
+      "youWillLose": "Lorem",
+      "accessToProjectTools": "Lorem",
+      "dataInsideProjectTools": "Lorem",
+      "rolesAssignedForProjectTools": "Lorem",
+      "removeProject": "Lorem",
+      "cancel": "Lorem"
+    },
+    "cancel": "Lorem",
+    "save": "Lorem",
+    "delete": "Lorem",
+    "created": "Lorem",
+    "generalTab": {
+      "details": {
+        "detailsCaption": "Lorem",
+        "name": "Lorem",
+        "description": "Lorem",
+        "projectIcon": "Lorem",
+        "placeholders": {
+          "addName": "Lorem",
+          "addDescription": "Lorem",
+          "dragPhoto": "Lorem",
+          "selectFile": "Lorem"
+        }
+      },
+      "tools": {
+        "toolsCaption": "Lorem",
+        "configureToolsYouNeed": "Lorem",
+        "selectOneOrMoreProducts": "Lorem"
+      },
+      "languageAndTimezone": {
+        "languageCaption": "Lorem",
+        "defaultCountry": "Lorem",
+        "defaultLanguage": "Lorem",
+        "defaultTimezone": "Lorem",
+        "placeholders": {
+          "selectCountry": "Lorem",
+          "selectLanguage": "Lorem",
+          "selectTimezone": "Lorem"
+        }
+      }
+    }
+  },
+  "releaseChannels": {
+    "caption": "Lorem",
+    "description": "Lorem",
+    "production": {
+      "caption": "Lorem",
+      "gqlPlaygroundsButton": "Lorem",
+      "addProductionUrl": "Lorem"
+    },
+    "testing": {
+      "caption": "Lorem",
+      "gqlPlaygroundsButton": "Lorem",
+      "addStageUrl": "Lorem"
+    },
+    "development": {
+      "caption": "Lorem",
+      "gqlPlaygroundsButton": "Lorem",
+      "addDevelopmentUrl": "Lorem"
+    }
+  }
+}

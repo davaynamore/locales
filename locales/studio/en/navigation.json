@@ -1,0 +1,13 @@
+{
+  "main": {
+    "manage": "Manage",
+    "home": "Home",
+    "build": "Build",
+    "analytics": "Analytics"
+  },
+  "extra": {
+    "preview": "Preview",
+    "publish": "Publish Changes",
+    "signout": "Logout"
+  }
+}

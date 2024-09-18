@@ -1,0 +1,8 @@
+{
+  "loading": "Loading...",
+  "saving": "Saving...",
+  "error": {
+    "title": "Something went wrong:",
+    "button": "Try again"
+  }
+}

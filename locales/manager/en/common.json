@@ -1,0 +1,51 @@
+{
+  "cancel": "External Cancel",
+  "save": "External Save Changes",
+  "navMenu": {
+    "users": "External Users",
+    "teams": "External Teams",
+    "roles": "External Roles",
+    "projects": "External Projects",
+    "orgs": "External Orgs",
+    "logs": "External Logs",
+    "userPreferences": "User Preferences",
+    "logout": "External Logout",
+    "orgPrefix": "External for"
+  },
+  "products": {
+    "analytics": "External Analytics",
+    "manager": "External Manager",
+    "contactCenter": "External Contact Center",
+    "studio": "External Studio",
+    "youDontHaveAccess": "External You don’t have access to this tool, please contact an admin"
+  },
+  "homepage": {
+    "header": {
+      "tools": "External Tools"
+    },
+    "projects": {
+      "newProject": "External New Project",
+      "createProject": "External Create Project",
+      "yourProjects": "External Your Projects",
+      "project": "External Project",
+      "tools": "External Tools",
+      "lastUpdated": "External Last updated",
+      "toGetStartedCreateProject": "External To get started, create your first project.",
+      "nothingToShowHere": "External Nothing to show here...",
+      "YouDontHaveAccessToTheToolsInThisProject": "External You do not have access to the tools in this project. Contact an admin.",
+      "YouDontHaveAccessToThisTool": "External You do not have access to this tool.",
+      "manageProject": "External Manage Project"
+    },
+    "contacts": {
+      "needHelp": "External Need Help?",
+      "yourBrowserDoesNotSupportVideoTag": "External Your browser does not support the video tag.",
+      "startChat": "External Start Chat",
+      "learnMore": "External Learn More...",
+      "visitOurSite": "External Visit our site",
+      "seeOurBlog": "External See our blog",
+      "blog": "External Blog",
+      "haveQuestions": "External Have questions?",
+      "helpCenter": "External Help Center"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "main": {
+    "manage": "管理",
+    "home": "家",
+    "build": "國會",
+    "analytics": "分析師"
+  },
+  "extra": {
+    "preview": "個人的",
+    "publish": "發布更改",
+    "signout": "出去"
+  }
+}

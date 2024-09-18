@@ -1,0 +1,82 @@
+{
+  "projectsList": {
+    "projects": "External Projects",
+    "createProject": "External Create Project",
+    "table": {
+      "name": "External Name",
+      "users": "External Users",
+      "tools": "External Tools",
+      "created": "External Created"
+    }
+  },
+  "sidebar": {
+    "general": "External General",
+    "releaseChannels": "External Release Channels",
+    "projectDetails": "External Project Details",
+    "appletDetails": "External Applet Details"
+  },
+  "projectDetails": {
+    "deleteModal": {
+      "areYouSure": "External Are you sure?",
+      "youWillLose": "External You'll permanently lose:",
+      "accessToProjectTools": "External access to this Project's tool instances",
+      "dataInsideProjectTools": "External all data inside this Project's tool instances",
+      "rolesAssignedForProjectTools": "External all roles assigned for this Project's tool instances",
+      "removeProject": "External Delete Project",
+      "cancel": "External Cancel"
+    },
+    "cancel": "External Cancel",
+    "save": "External Save",
+    "delete": "External Delete Project",
+    "created": "External Created {{date}}",
+    "generalTab": {
+      "details": {
+        "detailsCaption": "External Details",
+        "name": "External Name*",
+        "description": "External Description",
+        "projectIcon": "PExternal roject Icon",
+        "placeholders": {
+          "addName": "External Add Name",
+          "addDescription": "External Add description",
+          "dragPhoto": "External Drag a photo here",
+          "selectFile": "External Select a file"
+        }
+      },
+      "tools": {
+        "toolsCaption": "External Tools",
+        "configureToolsYouNeed": "External Configure the tools you need for your project",
+        "selectOneOrMoreProducts": "External Please select one or more tools"
+      },
+      "languageAndTimezone": {
+        "languageCaption": "External Localization",
+        "defaultCountry": "External Default country",
+        "defaultLanguage": "External Default language",
+        "defaultTimezone": "External Default timezone",
+        "placeholders": {
+          "selectCountry": "External Select country",
+          "selectLanguage": "External Select language",
+          "selectTimezone": "External Select timezone"
+        }
+      }
+    }
+  },
+  "releaseChannels": {
+    "caption": "External Release Channels",
+    "description": "External Projects organize work around an online property like a website. Everything in the project must be tied to a domain and, optionally, its subdomains.",
+    "production": {
+      "caption": "External Production",
+      "gqlPlaygroundsButton": "External GQL playground for Applets",
+      "addProductionUrl": "External Add Production URL"
+    },
+    "testing": {
+      "caption": "External Testing",
+      "gqlPlaygroundsButton": "External GQL playground for Applets",
+      "addStageUrl": "External Add Stage URL"
+    },
+    "development": {
+      "caption": "External Development",
+      "gqlPlaygroundsButton": "External GQL playground for Applets",
+      "addDevelopmentUrl": "External Add Development URL"
+    }
+  }
+}

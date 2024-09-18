@@ -1,0 +1,4 @@
+{
+  "addNewNode": "Add new Node",
+  "simulatingGraphProgress": "Graph simulation progress is {{ progress }}"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "pypestream-locales-test",
+  "version": "1.0.3",
+  "main": "index.js",
+  "files": [
+    "locales"
+  ]
+}

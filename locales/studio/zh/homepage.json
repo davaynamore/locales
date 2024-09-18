@@ -1,0 +1,18 @@
+{
+  "title": "所有應用程序",
+  "app": {
+    "create": "新應用",
+    "name": "應用名稱",
+    "status": "生產狀態",
+    "updated": "最近更新時間"
+  },
+  "status": {
+    "live": "未部署",
+    "outdated": "過時的版本",
+    "latest": "最新版本",
+    "default": "默認",
+    "primary": "基本的",
+    "success": "成功",
+    "error": "錯誤"
+  }
+}

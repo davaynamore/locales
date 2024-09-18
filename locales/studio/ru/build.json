@@ -1,0 +1,4 @@
+{
+  "addNewNode": "Добавить новый нод",
+  "simulatingGraphProgress": "Прогресс моделирования графа составляет {{ progress }}"
+}

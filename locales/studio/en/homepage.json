@@ -1,0 +1,23 @@
+{
+  "title": "All apps",
+  "app": {
+    "create": "New App",
+    "name": "App Name",
+    "status": "Production Status",
+    "updated": "Last updated",
+    "empty": {
+      "title": "No apps",
+      "subtitle": "Your apps will be displayed here"
+    }
+  },
+  "status": {
+    "live": "Not Deployed",
+    "outdated": "Outdated Version",
+    "latest": "Latest Version",
+    "default": "Default",
+    "primary": "Primary",
+    "indicator": "Version Indicator",
+    "success": "Success",
+    "error": "Error"
+  }
+}

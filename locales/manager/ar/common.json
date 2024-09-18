@@ -1,0 +1,51 @@
+{
+  "cancel": "lorem",
+  "save": "lorem",
+  "navMenu": {
+    "users": "lorem",
+    "teams": "lorem",
+    "roles": "lorem",
+    "projects": "lorem",
+    "orgs": "lorem",
+    "logs": "lorem",
+    "userPreferences": "lorem",
+    "logout": "lorem",
+    "orgPrefix": "lorem"
+  },
+  "products": {
+    "analytics": "lorem",
+    "manager": "lorem",
+    "contactCenter": "lorem",
+    "studio": "lorem",
+    "youDontHaveAccess": "lorem"
+  },
+  "homepage": {
+    "header": {
+      "tools": "lorem"
+    },
+    "projects": {
+      "newProject": "lorem",
+      "createProject": "lorem",
+      "yourProjects": "lorem",
+      "project": "lorem",
+      "tools": "lorem",
+      "lastUpdated": "lorem",
+      "toGetStartedCreateProject": "lorem",
+      "nothingToShowHere": "lorem",
+      "YouDontHaveAccessToTheToolsInThisProject": "lorem",
+      "YouDontHaveAccessToThisTool": "lorem",
+      "manageProject": "lorem"
+    },
+    "contacts": {
+      "needHelp": "lorem",
+      "yourBrowserDoesNotSupportVideoTag": "lorem",
+      "startChat": "lorem",
+      "learnMore": "lorem",
+      "visitOurSite": "lorem",
+      "seeOurBlog": "lorem",
+      "blog": "lorem",
+      "haveQuestions": "lorem",
+      "helpCenter": "lorem"
+    }
+  }
+}

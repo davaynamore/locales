@@ -1,0 +1,4 @@
+{
+  "addNewNode": "添加新节点",
+  "simulatingGraphProgress": "图仿真进度为{{ progress }}"
+}
