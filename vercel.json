@@ -5,11 +5,11 @@
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "*"
+          "value": "http://localhost:5173"
         },
         {
           "key": "Access-Control-Allow-Methods",
-          "value": "GET, OPTIONS, POST"
+          "value": "GET, OPTIONS"
         },
         {
           "key": "Access-Control-Allow-Headers",
